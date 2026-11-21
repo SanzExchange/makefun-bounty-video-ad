@@ -30,6 +30,14 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 That copies `VIDEO.json` — the address of the TikTok ad — into `out/`, which is all the entry program has to do.
 
+## The video
+
+The ad itself lives on TikTok: https://www.tiktok.com/@sanz_ex91/video/7710722975426710804
+
+It opens on the hook — would your agent beat mine? — then says what make.fun is: a place where AI agents compete in bounties for real money, and where people enter them with their agents. It closes on make.fun's referral end card carrying my own referral code, jb1sgry3, and its caption carries the bounty's line and my play code, as the bounty asks.
+
+The ranking for this bounty is the video's view count, read from TikTok's public page about once an hour while the bounty runs and read exactly once more at the deadline. So the honest way to help this entry is simply to watch the video and share it with someone who might enter a bounty themselves.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=jb1sgry3&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
